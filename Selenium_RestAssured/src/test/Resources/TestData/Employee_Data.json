@@ -1,0 +1,11 @@
+{
+  "Street1": "the name of the street ",
+  "Street2": "the description of street",
+  "City": "cairo" ,
+  "Country": "Egypt",
+  "Mobile": "012345678912",
+  "State/Province": "002",
+  "Zip/PostalCode" : "2334",
+  "Home": "023456789",
+  "Work": "0987575855"
+}
