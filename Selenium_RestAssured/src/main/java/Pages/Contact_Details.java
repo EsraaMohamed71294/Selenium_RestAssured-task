@@ -52,8 +52,7 @@ public class Contact_Details extends Page_Base{
     @FindBy(xpath="//*[@type='submit']")
     WebElement Submit_Button ;
 
-    @FindBy(xpath="")
-    WebElement Success_Message ;
+  
 
     public void Fill_Employee_Data(){
         setTextElementText(Street1_Field,data['Street1']);
