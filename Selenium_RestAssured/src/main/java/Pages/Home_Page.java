@@ -15,6 +15,6 @@ public class Home_Page extends Page_Base {
 
     public void Open_PIM()
     {
-        clickButton(PIM);
+       PIM.click();
     }
 }
